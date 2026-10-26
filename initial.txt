@@ -1,1 +1,1 @@
-new line is updating through branch b2
+conflict resolved br removing markers manual in text file
