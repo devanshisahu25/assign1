@@ -1,3 +1,1 @@
-conflict resolved br removing markers manual in text file
-update line1 for question 7
-update line2 for question 7
+resolved conflict in stash and local
